@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c40000</color>
+    <color name="colorPrimaryDark">#686868</color>
+    <color name="colorAccent">#686868</color>
+    <color name="colorPrimaryLight">#c40000</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="color_in">#ff6633</color>
+    <color name="color_out">#388E3C</color>
+    <color name="card_focus">#9E9E9E</color>
+    <color name="card_no_focus">#FFFFFF</color>
+</resources>
